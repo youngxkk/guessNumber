@@ -1,3 +1,5 @@
-# guessNumber
-i will write something
+# guessNumbe
+这是一个点击生成随机数（100以内），使用滑杆取值，看离这个随机数有多近的小游戏。
+
+#瞎写
 这是我学swift写的第 x 个程序，其实刚到门口，还没入门，写的很烂，请不要clone
